@@ -1,16 +1,16 @@
-# UserScript: Nowe Meteo UX
+Ôªø# UserScript: Nowe Meteo UX
 
 Poprawki UX dla nowego meteo.
 
 Instalacja
 ----------
 
-1. Zainstaluj [TamperMonkey](https://addons.mozilla.org/pl/firefox/addon/tampermonkey/) (jeúli jeszcze nie masz).
-2. Jak juø masz TM &rarr; **[zainstaluj skrypt](https://github.com/Eccenux/UserScript-nowe-meteo-UX/raw/master/nowe-meteo-UX.user.js)**.
+1. Zainstaluj [TamperMonkey](https://addons.mozilla.org/pl/firefox/addon/tampermonkey/) (je≈õli jeszcze nie masz).
+2. Jak ju≈º masz TM &rarr; **[zainstaluj skrypt](https://github.com/Eccenux/UserScript-nowe-meteo-UX/raw/master/nowe-meteo-UX.user.js)**.
 
 <!--
 
-SposÛb uøycia
+Spos√≥b u≈ºycia
 -------------
 
 <img src="https://raw.githubusercontent.com/Eccenux/UserScript-nowe-meteo-UX/master/screen.png" alt="Screen">
