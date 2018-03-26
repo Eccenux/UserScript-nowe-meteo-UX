@@ -1,6 +1,6 @@
 ﻿# UserScript: Nowe Meteo UX
 
-Poprawki UX dla nowego meteo.
+Poprawki UX dla [nowego meteo](https://nowe.meteo.pl/).
 
 Instalacja
 ----------
