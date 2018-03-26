@@ -1,8 +1,8 @@
 ﻿// ==UserScript==
 // @name         Nowe Meteo UX
 // @namespace    pl.enux.meteo.new
-// @version      0.2.1
-// @description  [0.2.1] Poprawki UX dla nowego meteo.
+// @version      0.2.2
+// @description  [0.2.2] Poprawki UX dla nowego meteo.
 // @author       Eccenux
 // @match        https://nowe.meteo.pl/
 // @grant        GM_addStyle
@@ -34,6 +34,18 @@
 			.nux-ux-buttons a:hover {
 				background: white;
 			}
+			
+			@media screen and (max-width: 766px) {
+				.nux-ux-buttons {
+					bottom: 0;
+					top: auto;
+				}
+				.nux-ux-buttons a {
+					float: left;
+					padding: 1em;
+					background: white;
+				}
+			}			
 		`;
         GM_addStyle(cssText);
     }
